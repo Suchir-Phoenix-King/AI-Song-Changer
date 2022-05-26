@@ -1,0 +1,28 @@
+body {
+    background-size: cover;
+}
+.heading {
+    font-size: 23px;
+    width:100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px darkgoldenrod;
+}
+
+.note {
+    font-size: 15px;
+    color: black;
+}
+
+#song {
+    font-size: 23px;
+    margin: 15px;
+    box-shadow: 6px 6px 6px rgb(143, 100, 7);
+}
+
+.div_song {
+    text-align: center;
+}
+
+canvas {
+    background-color: orange;
+}
